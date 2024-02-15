@@ -19,15 +19,19 @@ Here, you can get an in-depth view of a particular place selected from the Favou
 Places Featured
 
 a. Taj Mahal
+
 The Taj Mahal card provides a glimpse of this iconic monument, and the detailed view offers a carousel of images along with a comprehensive description of its historical and architectural significance.
 
 b. Golden Temple
+
 Explore the Golden Temple with a carousel of images, and learn about its significance and nearby attractions in the detailed view.
 
 c. Mysore Palace
+
 Discover the grandeur of Mysore Palace with a detailed view featuring captivating images and historical insights about this architectural marvel.
 
 d. Varanasi Temple
+
 Experience the spiritual vibes of Varanasi Temple through a detailed view that includes a carousel of images and a description of its cultural and religious importance.
 
 Technologies Used
