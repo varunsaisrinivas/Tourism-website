@@ -27,6 +27,7 @@ d. Varanasi Temple
 Experience the spiritual vibes of Varanasi Temple through a detailed view that includes a carousel of images and a description of its cultural and religious importance.
 
 Technologies Used
+
 HTML
 
 CSS
