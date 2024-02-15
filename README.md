@@ -1,4 +1,5 @@
 Tourism Website
+
 Welcome to the Tourism website! This project aims to showcase some of the most beautiful and culturally significant places around the world. Let's explore the features and sections of this website.
 
 Sections
@@ -12,6 +13,7 @@ In this section, you can explore a curated list of favorite places. Each place i
 Here, you can get an in-depth view of a particular place selected from the Favourite Places section. The detailed view includes a carousel of images and detailed information about the place. Additionally, there is a "Back" button to return to the Favourite Places section.
 
 Places Featured
+
 a. Taj Mahal
 The Taj Mahal card provides a glimpse of this iconic monument, and the detailed view offers a carousel of images along with a comprehensive description of its historical and architectural significance.
 
