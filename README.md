@@ -3,13 +3,17 @@ Tourism Website
 Welcome to the Tourism website! This project aims to showcase some of the most beautiful and culturally significant places around the world. Let's explore the features and sections of this website.
 
 Sections
+
 1. Home Section
+ 
 The home section is the landing page of the website. It provides a visually appealing introduction to the concept of the website with a background image and a call-to-action button to "Get Started."
 
 2. Favourite Places Section
+
 In this section, you can explore a curated list of favorite places. Each place is presented in a card format with an image, heading, and a brief description. Clicking on a card will take you to the detailed view of that place. The section also includes a "Back" button to return to the home section.
 
 3. Detailed View Section
+
 Here, you can get an in-depth view of a particular place selected from the Favourite Places section. The detailed view includes a carousel of images and detailed information about the place. Additionally, there is a "Back" button to return to the Favourite Places section.
 
 Places Featured
