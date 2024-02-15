@@ -28,5 +28,7 @@ Experience the spiritual vibes of Varanasi Temple through a detailed view that i
 
 Technologies Used
 HTML
+
 CSS
+
 Bootstrap 4.5.2
