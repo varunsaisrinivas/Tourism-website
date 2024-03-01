@@ -2,6 +2,10 @@ Tourism Website
 
 Welcome to the Tourism website! This project aims to showcase some of the most beautiful and culturally significant places around the world. Let's explore the features and sections of this website.
 
+Live Demo
+
+Check out the live demo of the website https://tourism-webs.netlify.app/
+
 Sections
 
 1. Home Section
